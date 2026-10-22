@@ -1,0 +1,8 @@
+{
+  "name": " Working: IT Tech Manager",
+  "description": "A comprehensive management tool for IT technicians to track assets, users, locations, IP addresses, maintenance issues, daily tasks, system checkups, and software warranties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
